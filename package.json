@@ -1,0 +1,22 @@
+{
+  "name": "menu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kikers17/menu.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kikers17/menu/issues"
+  },
+  "homepage": "https://github.com/kikers17/menu#readme",
+  "dependencies": {
+    "froala-design-blocks": "^1.0.1"
+  }
+}
