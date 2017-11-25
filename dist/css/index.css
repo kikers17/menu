@@ -22,6 +22,19 @@
 	width: auto;
 }
 
+
+.col-12.col-md-4{
+	padding: 0px;
+}
+
+
+
+.col-12.col-md-8{
+	padding: 0px;
+
+}
+
+
 @media (max-width: 575px) {
 
 .scrollcontainer {
@@ -33,6 +46,9 @@
 
 }
 
+body {
+	overflow: hidden;
+}
 
 
 @media (min-width: 576px) and (max-width: 767px) { 
