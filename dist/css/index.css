@@ -1,5 +1,11 @@
 @import url(../../node_modules/bootstrap/dist/css/bootstrap.css);
-@import url(../../node_modules/froala-design-blocks/dist/css/froala_blocks.css);
+
+
+body {
+	overflow: hidden;
+}
+
+
 
 .scrollcontainer {
 
@@ -88,4 +94,4 @@
 @media (min-width: 1200px) { 
 
 
- }
+ }}

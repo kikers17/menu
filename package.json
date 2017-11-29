@@ -17,6 +17,13 @@
   },
   "homepage": "https://github.com/kikers17/menu#readme",
   "dependencies": {
-    "froala-design-blocks": "^1.0.1"
+    "bootstrap": "^4.0.0-beta.2",
+    "jquery": "^3.2.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0",
+    "node-sass": "^4.7.2"
   }
 }
