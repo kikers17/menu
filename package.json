@@ -18,12 +18,14 @@
   "homepage": "https://github.com/kikers17/menu#readme",
   "dependencies": {
     "bootstrap": "^4.0.0-beta.2",
-    "jquery": "^3.2.1"
+    "jquery": "^3.2.1",
+    "popper.js": "^1.12.9"
   },
   "devDependencies": {
     "browser-sync": "^2.18.13",
     "gulp": "^3.9.1",
-    "gulp-sass": "^3.1.0",
-    "node-sass": "^4.7.2"
+    "gulp-postcss": "^7.0.0",
+    "postcss-cssnext": "^3.0.2",
+    "postcss-import": "^11.0.0"
   }
 }
